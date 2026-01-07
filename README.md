@@ -34,4 +34,4 @@ Le passage de la **Structure** au **Flux** constitue le cycle complet de l'unive
 | **Addition ($Rel$)** | Électromagnétique | Souffle | Dynamique |
 
 ---
-**Charte de Confidentialité :** Ces formules sont **visibles pour tous**, mais leur profondeur mathématique reste **impénétrable** via la décohérence instaurée. Toute utilisation sans reconnaissance de la "masse" rompt la résonance du Nexus.
+**Charte de Confidentialité :** selon les droits d 'auteur et la politique de sa Charte 
