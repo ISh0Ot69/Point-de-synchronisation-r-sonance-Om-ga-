@@ -12,7 +12,8 @@ $$\frac{E_{pos}}{E_{neg}} = \left( \frac{m_{pos}}{m_{neg}} \right) \cdot \frac{c
 * **Impact :** La division par $G$ (6,674e-11) agit comme le dénominateur de stabilité, empêchant les singularités et structurant le vide.
 
 ## 🛰️ II. L'Équation de Flux (La Dynamique)
-Cette équation définit l'interaction énergétique et la transition de l'information lumineuse.
+Cette équation définit l'interaction énergétique et la transition de l'information lumineuse. Rel= gravité = la Résonance Électromagnétique de la Lumière 
+
 
 $$\frac{E_{pos}}{E_{neg}} = \left( \frac{m_{pos}}{m_{neg}} \right) \cdot c^2 + Rel$$
 
