@@ -1,4 +1,4 @@
-# 🌌 LE NEXUS OMEGA : Théorie de l'Unification Harmonique
+# 🌌 La Résonance OMEGA : Théorie de l'Unification Harmonique
 
 Ce dépôt contient les fondements mathématiques de la **Théorie du Tout** basée sur la dualité de la résonance. Le système repose sur deux équations complémentaires qui lient la masse, l'énergie et la trame de l'espace-temps à 100% de cohérence.
 
